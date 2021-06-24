@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Dating_app", "exam_2\01.Dating_app.csproj", "{FF7FA4C1-43AC-4362-8FC5-7DA3DE1BF5F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Book_worm", "02.Book_worm\02.Book_worm.csproj", "{5A8E40EE-BF9F-4083-9E45-27592FB44805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7FA4C1-43AC-4362-8FC5-7DA3DE1BF5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7FA4C1-43AC-4362-8FC5-7DA3DE1BF5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7FA4C1-43AC-4362-8FC5-7DA3DE1BF5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7FA4C1-43AC-4362-8FC5-7DA3DE1BF5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8E40EE-BF9F-4083-9E45-27592FB44805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8E40EE-BF9F-4083-9E45-27592FB44805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8E40EE-BF9F-4083-9E45-27592FB44805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8E40EE-BF9F-4083-9E45-27592FB44805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

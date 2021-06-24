@@ -1,0 +1,31 @@
+dotnet ef dbcontext scaffold "Server=localhost,1433; Database=SoftUni;User=sa; Password=<YourStrong@Passw0rd>" Microsoft.EntityFrameworkCore.SqlServer -o Models
+
+sudo docker pc -a - to get all of my available docker containers
+
+docker start a515074a0ae9 - start docker container
+
+dotnet ef migrations add Initial
+
+dotnet ef database update - to apply the migration
+
+https://www.giselletavares.com/2019/01/01/how-to-add-the-identity-files-to-your-asp-net-core-project-with-vscode/
+
+Mapper: 
+	Initialization:
+
+	var config = new MapperConfiguration(x =>
+            {
+                x.AddProfile<CarDealerProfile>();
+            });
+
+            mapper = new Mapper(config);
+
+	Profile:
+	
+	public class CarDealerProfile : Profile
+    	{
+        		public CarDealerProfile()
+        			{
+          			  this.CreateMap<SupplierDto, Supplier>();
+       			 }
+    	}

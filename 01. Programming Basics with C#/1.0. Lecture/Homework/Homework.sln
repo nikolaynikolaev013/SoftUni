@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Hello_SoftUni", "Homework\1.Hello_SoftUni.csproj", "{BAD9303D-1AD9-4993-A89D-81A0B0DB60C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Expression", "2.Expression\2.Expression.csproj", "{BE7A5F19-5162-4D7E-9A4D-41B418109799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Num_1_to_10", "3.Num_1_to_10\3.Num_1_to_10.csproj", "{DAD2DB7F-562C-46E7-85B9-685222266E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Rectangle_Area", "4.Rectangle_Area\4.Rectangle_Area.csproj", "{084C09D2-F349-484A-8D3F-95F899E53B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD9303D-1AD9-4993-A89D-81A0B0DB60C4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BAD9303D-1AD9-4993-A89D-81A0B0DB60C4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BAD9303D-1AD9-4993-A89D-81A0B0DB60C4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BAD9303D-1AD9-4993-A89D-81A0B0DB60C4}.Release|anycpu.Build.0 = Release|anycpu
+		{BE7A5F19-5162-4D7E-9A4D-41B418109799}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BE7A5F19-5162-4D7E-9A4D-41B418109799}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BE7A5F19-5162-4D7E-9A4D-41B418109799}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BE7A5F19-5162-4D7E-9A4D-41B418109799}.Release|anycpu.Build.0 = Release|anycpu
+		{DAD2DB7F-562C-46E7-85B9-685222266E8B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DAD2DB7F-562C-46E7-85B9-685222266E8B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DAD2DB7F-562C-46E7-85B9-685222266E8B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DAD2DB7F-562C-46E7-85B9-685222266E8B}.Release|anycpu.Build.0 = Release|anycpu
+		{084C09D2-F349-484A-8D3F-95F899E53B44}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{084C09D2-F349-484A-8D3F-95F899E53B44}.Debug|anycpu.Build.0 = Debug|anycpu
+		{084C09D2-F349-484A-8D3F-95F899E53B44}.Release|anycpu.ActiveCfg = Release|anycpu
+		{084C09D2-F349-484A-8D3F-95F899E53B44}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

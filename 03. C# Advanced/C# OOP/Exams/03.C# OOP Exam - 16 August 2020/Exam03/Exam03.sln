@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop", "OnlineShop-Skeleton\OnlineShop\OnlineShop.csproj", "{5AFE4B5A-205C-49A6-AA9C-9BB4CB6A9AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computers", "Computers-Skeleton\Computers\Computers.csproj", "{64BFCF12-A859-429A-B904-C5DDA1BCA5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computers.Tests", "Computers-Skeleton\Computers.Tests\Computers.Tests.csproj", "{B358D5F9-6607-4753-BE30-1772C5675DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AFE4B5A-205C-49A6-AA9C-9BB4CB6A9AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFE4B5A-205C-49A6-AA9C-9BB4CB6A9AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFE4B5A-205C-49A6-AA9C-9BB4CB6A9AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFE4B5A-205C-49A6-AA9C-9BB4CB6A9AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BFCF12-A859-429A-B904-C5DDA1BCA5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BFCF12-A859-429A-B904-C5DDA1BCA5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BFCF12-A859-429A-B904-C5DDA1BCA5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BFCF12-A859-429A-B904-C5DDA1BCA5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B358D5F9-6607-4753-BE30-1772C5675DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B358D5F9-6607-4753-BE30-1772C5675DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B358D5F9-6607-4753-BE30-1772C5675DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B358D5F9-6607-4753-BE30-1772C5675DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

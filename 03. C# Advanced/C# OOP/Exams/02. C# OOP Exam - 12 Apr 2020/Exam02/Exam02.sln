@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterStrike", "01. Structure_Skeleton\CounterStrike\CounterStrike.csproj", "{DF8E08FF-38F7-4275-B46F-F65CEF77C858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robots", "01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots\Robots.csproj", "{C5D70150-2F69-4806-AFC3-8ED5B0F4BD26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robots.Tests", "01. Structure_Skeleton\03. Unit Tests_Skeleton\Robots.Tests\Robots.Tests.csproj", "{65218435-453C-45F3-8684-E9C95ADE45A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8E08FF-38F7-4275-B46F-F65CEF77C858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8E08FF-38F7-4275-B46F-F65CEF77C858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8E08FF-38F7-4275-B46F-F65CEF77C858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8E08FF-38F7-4275-B46F-F65CEF77C858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D70150-2F69-4806-AFC3-8ED5B0F4BD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D70150-2F69-4806-AFC3-8ED5B0F4BD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D70150-2F69-4806-AFC3-8ED5B0F4BD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D70150-2F69-4806-AFC3-8ED5B0F4BD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65218435-453C-45F3-8684-E9C95ADE45A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65218435-453C-45F3-8684-E9C95ADE45A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65218435-453C-45F3-8684-E9C95ADE45A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65218435-453C-45F3-8684-E9C95ADE45A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

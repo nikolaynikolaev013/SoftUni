@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "ReflectionAndAttributes\CommandPattern\CommandPattern.csproj", "{BBDD1AE5-C645-4F7F-B4C1-CC0C9CA4B2F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationAttributes", "ReflectionAndAttributes\ValidationAttributes\ValidationAttributes.csproj", "{D49BFE1F-B03F-46B9-AAE5-AD032B222365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDD1AE5-C645-4F7F-B4C1-CC0C9CA4B2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDD1AE5-C645-4F7F-B4C1-CC0C9CA4B2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDD1AE5-C645-4F7F-B4C1-CC0C9CA4B2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDD1AE5-C645-4F7F-B4C1-CC0C9CA4B2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49BFE1F-B03F-46B9-AAE5-AD032B222365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49BFE1F-B03F-46B9-AAE5-AD032B222365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49BFE1F-B03F-46B9-AAE5-AD032B222365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49BFE1F-B03F-46B9-AAE5-AD032B222365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

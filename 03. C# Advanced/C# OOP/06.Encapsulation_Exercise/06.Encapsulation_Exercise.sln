@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Class_Box_Data", "01.Class_Box_Data\01.Class_Box_Data.csproj", "{16BDD6EF-D131-4EC7-8F7D-7431B8A89043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Shopping_Spree", "02.Shopping_Spree\03.Shopping_Spree.csproj", "{199E53C8-014B-4024-B1DA-50B3AABF20C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Pizza_Calories", "04.Pizza_Calorie\04.Pizza_Calories.csproj", "{3EF8FE5E-0B52-48C6-A473-D6ADC11923DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BDD6EF-D131-4EC7-8F7D-7431B8A89043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BDD6EF-D131-4EC7-8F7D-7431B8A89043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BDD6EF-D131-4EC7-8F7D-7431B8A89043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BDD6EF-D131-4EC7-8F7D-7431B8A89043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199E53C8-014B-4024-B1DA-50B3AABF20C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199E53C8-014B-4024-B1DA-50B3AABF20C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199E53C8-014B-4024-B1DA-50B3AABF20C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199E53C8-014B-4024-B1DA-50B3AABF20C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF8FE5E-0B52-48C6-A473-D6ADC11923DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF8FE5E-0B52-48C6-A473-D6ADC11923DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF8FE5E-0B52-48C6-A473-D6ADC11923DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF8FE5E-0B52-48C6-A473-D6ADC11923DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

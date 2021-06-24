@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Nikuldens_charity", "exam4\01.Nikuldens_charity.csproj", "{9E3CE631-0CF8-453D-89AC-6EB429130A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Message_translator", "02.Message_translator\02.Message_translator.csproj", "{C6DC7B4B-417A-40D3-A6EE-A1C5DCE55AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Nikulden_meals", "03.Nikulden_meals\03.Nikulden_meals.csproj", "{78FD1AE3-F149-44F8-BF85-7C920D4FA5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3CE631-0CF8-453D-89AC-6EB429130A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3CE631-0CF8-453D-89AC-6EB429130A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3CE631-0CF8-453D-89AC-6EB429130A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3CE631-0CF8-453D-89AC-6EB429130A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DC7B4B-417A-40D3-A6EE-A1C5DCE55AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DC7B4B-417A-40D3-A6EE-A1C5DCE55AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DC7B4B-417A-40D3-A6EE-A1C5DCE55AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DC7B4B-417A-40D3-A6EE-A1C5DCE55AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FD1AE3-F149-44F8-BF85-7C920D4FA5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FD1AE3-F149-44F8-BF85-7C920D4FA5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FD1AE3-F149-44F8-BF85-7C920D4FA5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FD1AE3-F149-44F8-BF85-7C920D4FA5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

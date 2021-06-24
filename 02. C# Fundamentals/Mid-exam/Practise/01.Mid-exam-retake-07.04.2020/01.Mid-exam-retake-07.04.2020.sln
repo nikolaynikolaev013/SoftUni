@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Counter-Strike", "01.Mid-exam-retake-07.04.2020\01.Counter-Strike.csproj", "{E6654EE9-B388-49BD-A3DF-67E8909D7D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Shoot_for_the_win", "02.Shoot_for_the_win\02.Shoot_for_the_win.csproj", "{11C2E2DA-D4F1-4042-B2EA-313D3D19E718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Moving_Target", "03.Moving_Target\03.Moving_Target.csproj", "{174C7C6F-50C7-4E4C-AE55-A335F361B241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6654EE9-B388-49BD-A3DF-67E8909D7D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6654EE9-B388-49BD-A3DF-67E8909D7D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6654EE9-B388-49BD-A3DF-67E8909D7D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6654EE9-B388-49BD-A3DF-67E8909D7D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C2E2DA-D4F1-4042-B2EA-313D3D19E718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C2E2DA-D4F1-4042-B2EA-313D3D19E718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C2E2DA-D4F1-4042-B2EA-313D3D19E718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C2E2DA-D4F1-4042-B2EA-313D3D19E718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174C7C6F-50C7-4E4C-AE55-A335F361B241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174C7C6F-50C7-4E4C-AE55-A335F361B241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174C7C6F-50C7-4E4C-AE55-A335F361B241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174C7C6F-50C7-4E4C-AE55-A335F361B241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.World_tour", "Final_exam_09.08.2020\01.World_tour.csproj", "{EEB0BC40-244A-4677-99D7-A84822AC326F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Destination_mapper", "02.Destination_mapper\02.Destination_mapper.csproj", "{81C4DC61-BF4E-4832-86F7-54D154D1BF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Plant_discovery", "03.Plant_discovery\03.Plant_discovery.csproj", "{12CD7312-9E62-4610-A389-B6522C5AE329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB0BC40-244A-4677-99D7-A84822AC326F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB0BC40-244A-4677-99D7-A84822AC326F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB0BC40-244A-4677-99D7-A84822AC326F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB0BC40-244A-4677-99D7-A84822AC326F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C4DC61-BF4E-4832-86F7-54D154D1BF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C4DC61-BF4E-4832-86F7-54D154D1BF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C4DC61-BF4E-4832-86F7-54D154D1BF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C4DC61-BF4E-4832-86F7-54D154D1BF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CD7312-9E62-4610-A389-B6522C5AE329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CD7312-9E62-4610-A389-B6522C5AE329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CD7312-9E62-4610-A389-B6522C5AE329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CD7312-9E62-4610-A389-B6522C5AE329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

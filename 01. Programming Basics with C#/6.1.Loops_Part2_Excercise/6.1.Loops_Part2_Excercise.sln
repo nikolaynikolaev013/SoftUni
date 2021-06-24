@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Old_Books", "6.1.Loops_Part2_Excercise\01.Old_Books.csproj", "{2983675C-FFFC-446B-A098-CFE2A3F5194D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Exam_Preparation", "02.Exam_Preparation\02.Exam_Preparation.csproj", "{BC1D7D32-CE57-471A-BA07-7BDA7647F3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{61289423-BCE1-4B74-A1A5-DB159AF64C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Walking", "04.Walking\04.Walking.csproj", "{C7439AD1-4D26-4530-8429-6D27E12C22FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Coins", "05.Coins\05.Coins.csproj", "{DBC6D392-7B4A-419E-86B2-955941D93976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Cake", "06.Cake\06.Cake.csproj", "{22DE4637-1A75-4A4B-AD1B-6369C3CAC0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2983675C-FFFC-446B-A098-CFE2A3F5194D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2983675C-FFFC-446B-A098-CFE2A3F5194D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2983675C-FFFC-446B-A098-CFE2A3F5194D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2983675C-FFFC-446B-A098-CFE2A3F5194D}.Release|anycpu.Build.0 = Release|anycpu
+		{BC1D7D32-CE57-471A-BA07-7BDA7647F3E8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BC1D7D32-CE57-471A-BA07-7BDA7647F3E8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BC1D7D32-CE57-471A-BA07-7BDA7647F3E8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BC1D7D32-CE57-471A-BA07-7BDA7647F3E8}.Release|anycpu.Build.0 = Release|anycpu
+		{61289423-BCE1-4B74-A1A5-DB159AF64C00}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{61289423-BCE1-4B74-A1A5-DB159AF64C00}.Debug|anycpu.Build.0 = Debug|anycpu
+		{61289423-BCE1-4B74-A1A5-DB159AF64C00}.Release|anycpu.ActiveCfg = Release|anycpu
+		{61289423-BCE1-4B74-A1A5-DB159AF64C00}.Release|anycpu.Build.0 = Release|anycpu
+		{C7439AD1-4D26-4530-8429-6D27E12C22FB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C7439AD1-4D26-4530-8429-6D27E12C22FB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C7439AD1-4D26-4530-8429-6D27E12C22FB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C7439AD1-4D26-4530-8429-6D27E12C22FB}.Release|anycpu.Build.0 = Release|anycpu
+		{DBC6D392-7B4A-419E-86B2-955941D93976}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DBC6D392-7B4A-419E-86B2-955941D93976}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DBC6D392-7B4A-419E-86B2-955941D93976}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DBC6D392-7B4A-419E-86B2-955941D93976}.Release|anycpu.Build.0 = Release|anycpu
+		{22DE4637-1A75-4A4B-AD1B-6369C3CAC0E4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{22DE4637-1A75-4A4B-AD1B-6369C3CAC0E4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{22DE4637-1A75-4A4B-AD1B-6369C3CAC0E4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{22DE4637-1A75-4A4B-AD1B-6369C3CAC0E4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

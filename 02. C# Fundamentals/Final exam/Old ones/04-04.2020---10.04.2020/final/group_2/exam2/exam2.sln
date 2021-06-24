@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Password_reset", "exam2\01.Password_reset.csproj", "{C3B3138D-2164-4D8C-A2A1-6927402AAB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Fancy_barcodes", "02.Fancy_barcodes\02.Fancy_barcodes.csproj", "{8170BE65-FACC-42F9-90D0-AD7F5BF85CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Heroes_of_Code_and_Logic_VII", "03.Heroes_of_Code_and_Logic_VII\03.Heroes_of_Code_and_Logic_VII.csproj", "{4F31AC4B-2401-4E76-BAB4-C8272DADDA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B3138D-2164-4D8C-A2A1-6927402AAB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B3138D-2164-4D8C-A2A1-6927402AAB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B3138D-2164-4D8C-A2A1-6927402AAB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B3138D-2164-4D8C-A2A1-6927402AAB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8170BE65-FACC-42F9-90D0-AD7F5BF85CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8170BE65-FACC-42F9-90D0-AD7F5BF85CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8170BE65-FACC-42F9-90D0-AD7F5BF85CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8170BE65-FACC-42F9-90D0-AD7F5BF85CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F31AC4B-2401-4E76-BAB4-C8272DADDA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F31AC4B-2401-4E76-BAB4-C8272DADDA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F31AC4B-2401-4E76-BAB4-C8272DADDA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F31AC4B-2401-4E76-BAB4-C8272DADDA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

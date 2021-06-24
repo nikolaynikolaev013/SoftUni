@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Generic_Box_of_String", "18.Excerise_generics\01.Generic_Box_of_String.csproj", "{D343B6F2-45E4-4466-913E-D3EBB608FD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Tuple", "07.Tuple\07.Tuple.csproj", "{F89F288D-19F3-4191-974F-1F884506E620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D343B6F2-45E4-4466-913E-D3EBB608FD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D343B6F2-45E4-4466-913E-D3EBB608FD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D343B6F2-45E4-4466-913E-D3EBB608FD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D343B6F2-45E4-4466-913E-D3EBB608FD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89F288D-19F3-4191-974F-1F884506E620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89F288D-19F3-4191-974F-1F884506E620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89F288D-19F3-4191-974F-1F884506E620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89F288D-19F3-4191-974F-1F884506E620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

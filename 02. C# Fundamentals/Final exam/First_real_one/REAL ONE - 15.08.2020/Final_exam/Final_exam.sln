@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.The_Imitation_game", "Final_exam\01.The_Imitation_game.csproj", "{0BD41B86-0A08-4137-9A6E-7EEEE02A7D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Ad_astra", "02.Ad_astra\02.Ad_astra.csproj", "{C644D485-F984-4781-970D-7C50D3ED79C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.The_Pianist", "03.The_Pianist\03.The_Pianist.csproj", "{01DF6E53-39A4-452B-BFCC-DF54241C72BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BD41B86-0A08-4137-9A6E-7EEEE02A7D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD41B86-0A08-4137-9A6E-7EEEE02A7D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD41B86-0A08-4137-9A6E-7EEEE02A7D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD41B86-0A08-4137-9A6E-7EEEE02A7D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C644D485-F984-4781-970D-7C50D3ED79C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C644D485-F984-4781-970D-7C50D3ED79C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C644D485-F984-4781-970D-7C50D3ED79C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C644D485-F984-4781-970D-7C50D3ED79C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DF6E53-39A4-452B-BFCC-DF54241C72BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DF6E53-39A4-452B-BFCC-DF54241C72BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DF6E53-39A4-452B-BFCC-DF54241C72BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DF6E53-39A4-452B-BFCC-DF54241C72BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

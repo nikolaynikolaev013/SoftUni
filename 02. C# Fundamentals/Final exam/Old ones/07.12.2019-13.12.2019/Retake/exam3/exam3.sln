@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Warriors_quest", "exam3\01.Warriors_quest.csproj", "{7898B2CF-49D0-4894-9455-0852F8450809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Boss_rush", "02.Boss_rush\02.Boss_rush.csproj", "{B2539E2D-ECB9-4626-BE0A-37C024F15FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Hero_recruiment", "03.Hero_recruiment\03.Hero_recruiment.csproj", "{047FEAF0-FB51-45F8-8DE6-B8B12E5CB67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7898B2CF-49D0-4894-9455-0852F8450809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7898B2CF-49D0-4894-9455-0852F8450809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7898B2CF-49D0-4894-9455-0852F8450809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7898B2CF-49D0-4894-9455-0852F8450809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2539E2D-ECB9-4626-BE0A-37C024F15FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2539E2D-ECB9-4626-BE0A-37C024F15FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2539E2D-ECB9-4626-BE0A-37C024F15FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2539E2D-ECB9-4626-BE0A-37C024F15FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047FEAF0-FB51-45F8-8DE6-B8B12E5CB67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047FEAF0-FB51-45F8-8DE6-B8B12E5CB67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047FEAF0-FB51-45F8-8DE6-B8B12E5CB67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047FEAF0-FB51-45F8-8DE6-B8B12E5CB67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

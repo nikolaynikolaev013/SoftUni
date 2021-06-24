@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Savings", "8.1.Exam_Preparation\01.Savings.csproj", "{9FD7F0E2-CED7-4D20-BDB0-033E2EF0F312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Summer_Shopping", "02.Summer_Shopping\02.Summer_Shopping.csproj", "{FC15EBD7-1D9E-4FD5-B6FF-A7CA51B6B358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Cruise_Ship", "03.Cruise_Ship\03.Cruise_Ship.csproj", "{3294639F-C153-4DE9-8F7E-82C0489BA499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Cruise_Games", "04.Cruise_Games\04.Cruise_Games.csproj", "{C7AFCF31-9054-4A3A-AA6E-F9F23F35AC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Darts_tournament", "05.Darts_tournament\05.Darts_tournament.csproj", "{4E00D5E9-EC45-4F0D-A838-DD7F2D9A3B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Baking_Competition", "06.Baking_Competition\06.Baking_Competition.csproj", "{E540D1F5-64C2-4D32-A5E8-2FD0FADCE7A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD7F0E2-CED7-4D20-BDB0-033E2EF0F312}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9FD7F0E2-CED7-4D20-BDB0-033E2EF0F312}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9FD7F0E2-CED7-4D20-BDB0-033E2EF0F312}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9FD7F0E2-CED7-4D20-BDB0-033E2EF0F312}.Release|anycpu.Build.0 = Release|anycpu
+		{FC15EBD7-1D9E-4FD5-B6FF-A7CA51B6B358}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FC15EBD7-1D9E-4FD5-B6FF-A7CA51B6B358}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FC15EBD7-1D9E-4FD5-B6FF-A7CA51B6B358}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FC15EBD7-1D9E-4FD5-B6FF-A7CA51B6B358}.Release|anycpu.Build.0 = Release|anycpu
+		{3294639F-C153-4DE9-8F7E-82C0489BA499}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3294639F-C153-4DE9-8F7E-82C0489BA499}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3294639F-C153-4DE9-8F7E-82C0489BA499}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3294639F-C153-4DE9-8F7E-82C0489BA499}.Release|anycpu.Build.0 = Release|anycpu
+		{C7AFCF31-9054-4A3A-AA6E-F9F23F35AC84}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C7AFCF31-9054-4A3A-AA6E-F9F23F35AC84}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C7AFCF31-9054-4A3A-AA6E-F9F23F35AC84}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C7AFCF31-9054-4A3A-AA6E-F9F23F35AC84}.Release|anycpu.Build.0 = Release|anycpu
+		{4E00D5E9-EC45-4F0D-A838-DD7F2D9A3B99}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4E00D5E9-EC45-4F0D-A838-DD7F2D9A3B99}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4E00D5E9-EC45-4F0D-A838-DD7F2D9A3B99}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4E00D5E9-EC45-4F0D-A838-DD7F2D9A3B99}.Release|anycpu.Build.0 = Release|anycpu
+		{E540D1F5-64C2-4D32-A5E8-2FD0FADCE7A4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E540D1F5-64C2-4D32-A5E8-2FD0FADCE7A4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E540D1F5-64C2-4D32-A5E8-2FD0FADCE7A4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E540D1F5-64C2-4D32-A5E8-2FD0FADCE7A4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

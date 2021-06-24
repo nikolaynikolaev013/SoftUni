@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.National_court", "02.Mid_Exam_29.02.2020\01.National_court.csproj", "{E2C960FB-3D32-48AD-BDDD-C0F1EEAAB36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Shopping_list", "02.Shopping_list\02.Shopping_list.csproj", "{14CCB17D-91DD-4FED-B2ED-CDEA83EC33A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Heart_delivery", "03.Heart_delivery\03.Heart_delivery.csproj", "{E4B92013-EC93-41A6-BAE1-4C328E2E9409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C960FB-3D32-48AD-BDDD-C0F1EEAAB36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C960FB-3D32-48AD-BDDD-C0F1EEAAB36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C960FB-3D32-48AD-BDDD-C0F1EEAAB36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C960FB-3D32-48AD-BDDD-C0F1EEAAB36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CCB17D-91DD-4FED-B2ED-CDEA83EC33A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CCB17D-91DD-4FED-B2ED-CDEA83EC33A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CCB17D-91DD-4FED-B2ED-CDEA83EC33A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CCB17D-91DD-4FED-B2ED-CDEA83EC33A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B92013-EC93-41A6-BAE1-4C328E2E9409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B92013-EC93-41A6-BAE1-4C328E2E9409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B92013-EC93-41A6-BAE1-4C328E2E9409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B92013-EC93-41A6-BAE1-4C328E2E9409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

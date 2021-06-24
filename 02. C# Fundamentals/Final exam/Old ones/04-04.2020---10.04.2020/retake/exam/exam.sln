@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Secret_chat", "exam\01.Secret_chat.csproj", "{CED9FD40-75D0-4CF0-B22E-7BFDA25C685B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Mirror_worlds", "02.Mirror_worlds\02.Mirror_worlds.csproj", "{EB5F8C7A-7DAF-4C81-BAC4-F2CF1FD2F3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Need_for_speed_3", "03.Need_for_speed_3\03.Need_for_speed_3.csproj", "{131B38DE-BE54-4410-8946-9F20F3A18F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED9FD40-75D0-4CF0-B22E-7BFDA25C685B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED9FD40-75D0-4CF0-B22E-7BFDA25C685B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED9FD40-75D0-4CF0-B22E-7BFDA25C685B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED9FD40-75D0-4CF0-B22E-7BFDA25C685B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5F8C7A-7DAF-4C81-BAC4-F2CF1FD2F3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5F8C7A-7DAF-4C81-BAC4-F2CF1FD2F3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5F8C7A-7DAF-4C81-BAC4-F2CF1FD2F3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5F8C7A-7DAF-4C81-BAC4-F2CF1FD2F3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131B38DE-BE54-4410-8946-9F20F3A18F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131B38DE-BE54-4410-8946-9F20F3A18F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131B38DE-BE54-4410-8946-9F20F3A18F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131B38DE-BE54-4410-8946-9F20F3A18F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

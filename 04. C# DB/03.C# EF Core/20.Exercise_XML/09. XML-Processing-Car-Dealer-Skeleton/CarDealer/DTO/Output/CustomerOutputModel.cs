@@ -1,0 +1,23 @@
+﻿using System;
+using System.Xml.Serialization;
+
+namespace CarDealer.DTO.Output
+{
+    [XmlType("customer")]
+    public class CustomerOutputModel
+    {
+        public CustomerOutputModel()
+        {
+        }
+
+        [XmlAttribute("full-name")]
+        public string FullName { get; set; }
+
+        [XmlAttribute("bought-cars")]
+        public int BoughtCars { get; set; }
+
+        [XmlAttribute("spent-money")]
+        public decimal SpentMoney { get; set; }
+
+    }
+}

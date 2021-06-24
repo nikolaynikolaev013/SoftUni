@@ -1,0 +1,4 @@
+{
+    "terminal.explorerKind": "external",
+    "java.debug.settings.console": "externalTerminal"
+}

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="IO\" />
+    <Folder Include="IO\Contracts\" />
+    <Folder Include="Models\" />
+    <Folder Include="Models\Driver\" />
+    <Folder Include="Models\Driver\Contracts\" />
+    <Folder Include="Models\Car\" />
+    <Folder Include="Models\Car\Contracts\" />
+    <Folder Include="Models\Tyre\" />
+    <Folder Include="Models\Tyre\Contracts\" />
+  </ItemGroup>
+</Project>
